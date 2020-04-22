@@ -1,0 +1,54 @@
+﻿Please see the "Hearthbuddy BM Release Thread" thread for more information:
+https://www.thebuddyforum.com/hearthbuddy-forum/210230-hearthbuddy-bm-release-thread.html
+
+* Updates for 9.4.0.
+* Next wave of various internal SF changes.
+--------------------------------------------------------------------------------
+* Arena drafting should now support sub-class selection.
+* HandleDialogs now processes the OutstandingDraftTicketDialog correctly.
+* Emotes fix due to the new event changing it.
+* Updates for 9.2.0.
+* Updates for 9.1.0.
+* Updates for 9.0.0.
+* Updates for 8.2.4.
+* Support for HS CN builds via a separate HSB CN build.
+* Updates for 8.2.2.
+* Updates for 8.2.0.
+* Updates for 8.0.4.
+* Updates for 8.0.0.
+* Updates for 7.1.1.
+* Updates for 7.1.0.
+* Updates for 7.0.0.
+* More updates for 6.2.0.
+* Deck caching bug fixed where existing decks that changed were not properly updated.
+* The QuestPlus plugin is now included with HSB. Various internal changes made to support new features.
+* Updates for 6.2.0.
+* Various application updates:
+-- Only one copy of HSB should be run from a folder now.
+-- HSB can no longer be ran from UNC paths (on network drives).
+-- Additional bot security features added to auto-close if certain bot files are removed/renamed.
+-- Additional bot security features added to prevent attaching to undesirable game processes.
+-- HSB should no longer crash HS if the game client is unsupported, and instead simply exit with an error.
+* Updates for 6.1.3.
+* Updates for 6.1.1.
+* Updates for 6.0.0.
+* Updates for 5.2.2.
+* Updates for 5.0.2.
+* Updates for 5.0.2.
+* BotManager will no longer stop on a GreyMagic.InjectionDesyncException.
+* Updates for 5.0.1.
+* The bot now supports switching between wild/standard game modes for Constructed games.
+* The quest plugin has had minor updates to handle the new game modes and 2 new Old Gods quests.
+* Updates for 5.0.0.
+* The quest plugin will now save/restore the constructed deck name on start/stop.
+* Updates for 4.3.0.
+* The bot should now be able to handle the basic decks on accounts that do not have all heros unlocked. These decks can be referred to by class name, such as Mage for the mage deck, or the custom name given in the collection manager.
+* Due to recent game changes, the concept of deck types (basic/custom) no longer exists. All decks are now custom decks, so a lot of GUI settings have been removed. This means users must always enter a deck name for the bot to use.
+* The bot's model of caching decks has been improved and made less annoying.
+** It will perform a full deck cache the first time you run it. It will only have to do this once per configuration, or your deck cache is manually cleared.
+** It will visit the collection manager on start, or when it needs to re-cache custom decks (user tells it to). This is the best way to handle cache updates, but it won't have to check the contents of each deck each time like before.
+** Cached deck info will now be consistent for everyone, and can be used by the AI for better logic in the future.
+* The Quest plugin now support ignoring up to 17 decks by name.
+* An installer is now available for HSB via BuddyAuth: http://updates.buddyauth.com
+* Hearthbuddy now uses .Net 4.6.1 and the Visual Studio 2015 runtime: https://www.thebuddyforum.com/the-buddy-bots/announcements/241851-buddy-bots-prerequisites-update.html
+* If you manually stop the bot during a queue, you need to manually go back to the Hub before being able to re-queue with the bot again. This will be worked around in the future, but is due to a client change where the client state is not correct anymore (it's still marked as being in queue.

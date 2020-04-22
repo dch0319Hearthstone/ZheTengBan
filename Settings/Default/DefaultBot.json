@@ -1,0 +1,23 @@
+{
+  "ArenaDontOpenRewards": false,
+  "AutoConcedeLag": false,
+  "AutoConcedeMinDelayMs": 4000,
+  "AutoConcedeMaxDelayMs": 10000,
+  "SpectateRandomFriend": true,
+  "SpectateAllowedName": "",
+  "HideInactiveGameMode": true,
+  "AutoConcedeAfterConstructedWin": false,
+  "AutoConcedeNextConstructedGame": false,
+  "RoutineMustDraftArena": true,
+  "ConstructedMode": 0,
+  "ConstructedCustomDeck": "fs",
+  "AutoGreet": false,
+  "GameMode": 2,
+  "ConstructedGameRule": 1,
+  "PracticeDifficulty": 1,
+  "PracticeOpponentClass": 3,
+  "PracticeCustomDeck": "德鲁伊",
+  "FriendlyCustomDeck": "",
+  "FriendlyAllowedName": "",
+  "DontCachAndQuestDeck": true
+}

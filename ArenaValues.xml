@@ -1,0 +1,529 @@
+<?xml version="1.0"?>
+<arena-values>
+	<arena-value cardId="EX1_613" value="55" /> <!-- edwinvancleef-->
+	<arena-value cardId="EX1_133" value="83" /> <!-- perditionsblade-->
+	<arena-value cardId="NEW1_018" value="36" /> <!-- bloodsailraider-->
+	<arena-value cardId="EX1_012" value="46" /> <!-- bloodmagethalnos-->
+	<arena-value cardId="CS2_231" value="11" /> <!-- wisp-->
+	<arena-value cardId="CS2_179" value="83" /> <!-- senjinshieldmasta-->
+	<arena-value cardId="EX1_025" value="44" /> <!-- dragonlingmechanic-->
+	<arena-value cardId="EX1_396" value="40" /> <!-- mogushanwarden-->
+	<arena-value cardId="NEW1_017" value="27" /> <!-- hungrycrab-->
+	<arena-value cardId="EX1_533" value="35" /> <!-- misdirection-->
+	<arena-value cardId="EX1_522" value="55" /> <!-- patientassassin-->
+	<arena-value cardId="NEW1_026" value="71" /> <!-- violetteacher-->
+	<arena-value cardId="EX1_398" value="86" /> <!-- arathiweaponsmith-->
+	<arena-value cardId="EX1_007" value="64" /> <!-- acolyteofpain-->
+	<arena-value cardId="CS1_112" value="82" /> <!-- holynova-->
+	<arena-value cardId="EX1_258" value="81" /> <!-- unboundelemental-->
+	<arena-value cardId="CS2_087" value="37" /> <!-- blessingofmight-->
+	<arena-value cardId="CS2_092" value="63" /> <!-- blessingofkings-->
+	<arena-value cardId="CS2_022" value="82" /> <!-- polymorph-->
+	<arena-value cardId="EX1_046" value="82" /> <!-- darkirondwarf-->
+	<arena-value cardId="NEW1_041" value="86" /> <!-- stampedingkodo-->
+	<arena-value cardId="EX1_360" value="36" /> <!-- humility-->
+	<arena-value cardId="NEW1_038" value="62" /> <!-- gruul-->
+	<arena-value cardId="CS2_009" value="53" /> <!-- markofthewild-->
+	<arena-value cardId="EX1_010" value="73" /> <!-- worgeninfiltrator-->
+	<arena-value cardId="CS2_024" value="83" /> <!-- frostbolt-->
+	<arena-value cardId="EX1_565" value="81" /> <!-- flametonguetotem-->
+	<arena-value cardId="CS2_076" value="77" /> <!-- assassinate-->
+	<arena-value cardId="FP1_004" value="42" /> <!-- madscientist-->
+	<arena-value cardId="CS2_162" value="48" /> <!-- lordofthearena-->
+	<arena-value cardId="CS2_181" value="71" /> <!-- injuredblademaster-->
+	<arena-value cardId="EX1_309" value="69" /> <!-- siphonsoul-->
+	<arena-value cardId="EX1_354" value="79" /> <!-- layonhands-->
+	<arena-value cardId="TU4f_001" value="22" /> <!-- lorewalkercho-->
+	<arena-value cardId="EX1_023" value="54" /> <!-- silvermoonguardian-->
+	<arena-value cardId="CS2_003" value="56" /> <!-- mindvision-->
+	<arena-value cardId="CS2_201" value="29" /> <!-- corehound-->
+	<arena-value cardId="EX1_508" value="13" /> <!-- grimscaleoracle-->
+	<arena-value cardId="EX1_259" value="87" /> <!-- lightningstorm-->
+	<arena-value cardId="EX1_103" value="31" /> <!-- coldlightseer-->
+	<arena-value cardId="FP1_021" value="85" /> <!-- deathsbite-->
+	<arena-value cardId="EX1_411" value="87" /> <!-- gorehowl-->
+	<arena-value cardId="CS2_053" value="45" /> <!-- farsight-->
+	<arena-value cardId="CS2_182" value="85" /> <!-- chillwindyeti-->
+	<arena-value cardId="CS2_008" value="15" /> <!-- moonfire-->
+	<arena-value cardId="CS2_233" value="25" /> <!-- bladeflurry-->
+	<arena-value cardId="EX1_626" value="50" /> <!-- massdispel-->
+	<arena-value cardId="EX1_059" value="46" /> <!-- crazedalchemist-->
+	<arena-value cardId="EX1_334" value="81" /> <!-- shadowmadness-->
+	<arena-value cardId="EX1_619" value="71" /> <!-- equality-->
+	<arena-value cardId="EX1_006" value="21" /> <!-- alarmobot-->
+	<arena-value cardId="NEW1_031" value="85" /> <!-- animalcompanion-->
+	<arena-value cardId="EX1_004" value="33" /> <!-- youngpriestess-->
+	<arena-value cardId="EX1_095" value="57" /> <!-- gadgetzanauctioneer-->
+	<arena-value cardId="NEW1_007" value="86" /> <!-- starfall-->
+	<arena-value cardId="EX1_275" value="49" /> <!-- coneofcold-->
+	<arena-value cardId="EX1_245" value="55" /> <!-- earthshock-->
+	<arena-value cardId="EX1_383" value="89" /> <!-- tirionfordring-->
+	<arena-value cardId="FP1_016" value="66" /> <!-- wailingsoul-->
+	<arena-value cardId="CS2_125" value="51" /> <!-- ironfurgrizzly-->
+	<arena-value cardId="EX1_137" value="31" /> <!-- headcrack-->
+	<arena-value cardId="DS1_185" value="61" /> <!-- arcaneshot-->
+	<arena-value cardId="FP1_010" value="45" /> <!-- maexxna-->
+	<arena-value cardId="EX1_304" value="37" /> <!-- voidterror-->
+	<arena-value cardId="EX1_302" value="55" /> <!-- mortalcoil-->
+	<arena-value cardId="CS2_108" value="61" /> <!-- execute-->
+	<arena-value cardId="CS2_046" value="55" /> <!-- bloodlust-->
+	<arena-value cardId="NEW1_005" value="24" /> <!-- kidnapper-->
+	<arena-value cardId="EX1_062" value="22" /> <!-- oldmurkeye-->
+	<arena-value cardId="CS2_072" value="82" /> <!-- backstab-->
+	<arena-value cardId="FP1_014" value="44" /> <!-- stalagg-->
+	<arena-value cardId="EX1_507" value="58" /> <!-- murlocwarleader-->
+	<arena-value cardId="EX1_144" value="39" /> <!-- shadowstep-->
+	<arena-value cardId="CS2_038" value="48" /> <!-- ancestralspirit-->
+	<arena-value cardId="EX1_093" value="77" /> <!-- defenderofargus-->
+	<arena-value cardId="CS2_080" value="76" /> <!-- assassinsblade-->
+	<arena-value cardId="EX1_005" value="68" /> <!-- biggamehunter-->
+	<arena-value cardId="EX1_382" value="84" /> <!-- aldorpeacekeeper-->
+	<arena-value cardId="CS2_028" value="76" /> <!-- blizzard-->
+	<arena-value cardId="EX1_538" value="67" /> <!-- unleashthehounds-->
+	<arena-value cardId="EX1_581" value="36" /> <!-- sap-->
+	<arena-value cardId="CS2_147" value="75" /> <!-- gnomishinventor-->
+	<arena-value cardId="CS1_113" value="67" /> <!-- mindcontrol-->
+	<arena-value cardId="CS2_161" value="59" /> <!-- ravenholdtassassin-->
+	<arena-value cardId="CS2_031" value="30" /> <!-- icelance-->
+	<arena-value cardId="EX1_066" value="82" /> <!-- acidicswampooze-->
+	<arena-value cardId="EX1_355" value="32" /> <!-- blessedchampion-->
+	<arena-value cardId="EX1_534" value="87" /> <!-- savannahhighmane-->
+	<arena-value cardId="EX1_162" value="52" /> <!-- direwolfalpha-->
+	<arena-value cardId="EX1_363" value="55" /> <!-- blessingofwisdom-->
+	<arena-value cardId="CS2_188" value="40" /> <!-- abusivesergeant-->
+	<arena-value cardId="EX1_016" value="87" /> <!-- sylvanaswindrunner-->
+	<arena-value cardId="EX1_603" value="67" /> <!-- crueltaskmaster-->
+	<arena-value cardId="EX1_238" value="73" /> <!-- lightningbolt-->
+	<arena-value cardId="EX1_166" value="88" /> <!-- keeperofthegrove-->
+	<arena-value cardId="DS1_183" value="81" /> <!-- multishot-->
+	<arena-value cardId="EX1_076" value="46" /> <!-- pintsizedsummoner-->
+	<arena-value cardId="EX1_048" value="78" /> <!-- spellbreaker-->
+	<arena-value cardId="FP1_026" value="77" /> <!-- anubarambusher-->
+	<arena-value cardId="CS2_074" value="82" /> <!-- deadlypoison-->
+	<arena-value cardId="FP1_027" value="42" /> <!-- stoneskingargoyle-->
+	<arena-value cardId="EX1_129" value="48" /> <!-- fanofknives-->
+	<arena-value cardId="EX1_405" value="13" /> <!-- shieldbearer-->
+	<arena-value cardId="EX1_606" value="55" /> <!-- shieldblock-->
+	<arena-value cardId="CS2_119" value="49" /> <!-- oasissnapjaw-->
+	<arena-value cardId="TU4e_001" value="58" /> <!-- illidanstormrage-->
+	<arena-value cardId="CS2_121" value="31" /> <!-- frostwolfgrunt-->
+	<arena-value cardId="NEW1_020" value="79" /> <!-- wildpyromancer-->
+	<arena-value cardId="CS2_196" value="50" /> <!-- razorfenhunter-->
+	<arena-value cardId="FP1_022" value="71" /> <!-- voidcaller-->
+	<arena-value cardId="EX1_563" value="37" /> <!-- malygos-->
+	<arena-value cardId="CS1_129" value="32" /> <!-- innerfire-->
+	<arena-value cardId="EX1_158" value="39" /> <!-- souloftheforest-->
+	<arena-value cardId="NEW1_025" value="31" /> <!-- bloodsailcorsair-->
+	<arena-value cardId="EX1_083" value="37" /> <!-- tinkmasteroverspark-->
+	<arena-value cardId="EX1_295" value="46" /> <!-- iceblock-->
+	<arena-value cardId="EX1_407" value="61" /> <!-- brawl-->
+	<arena-value cardId="NEW1_004" value="30" /> <!-- vanish-->
+	<arena-value cardId="FP1_019" value="39" /> <!-- poisonseeds-->
+	<arena-value cardId="EX1_014" value="22" /> <!-- kingmukla-->
+	<arena-value cardId="CS2_097" value="66" /> <!-- truesilverchampion-->
+	<arena-value cardId="EX1_558" value="50" /> <!-- harrisonjones-->
+	<arena-value cardId="CS2_186" value="58" /> <!-- wargolem-->
+	<arena-value cardId="EX1_084" value="58" /> <!-- warsongcommander-->
+	<arena-value cardId="NEW1_012" value="70" /> <!-- manawyrm-->
+	<arena-value cardId="EX1_578" value="25" /> <!-- savagery-->
+	<arena-value cardId="CS2_073e2" value="55" /> <!-- coldblood-->
+	<arena-value cardId="CS2_221" value="64" /> <!-- spitefulsmith-->
+	<arena-value cardId="EX1_019" value="90" /> <!-- shatteredsuncleric-->
+	<arena-value cardId="EX1_284" value="90" /> <!-- azuredrake-->
+	<arena-value cardId="EX1_105" value="36" /> <!-- mountaingiant-->
+	<arena-value cardId="NEW1_011" value="74" /> <!-- korkronelite-->
+	<arena-value cardId="EX1_017" value="56" /> <!-- junglepanther-->
+	<arena-value cardId="EX1_249" value="72" /> <!-- barongeddon-->
+	<arena-value cardId="EX1_313" value="63" /> <!-- pitlord-->
+	<arena-value cardId="CS2_106" value="87" /> <!-- fierywaraxe-->
+	<arena-value cardId="FP1_018" value="50" /> <!-- duplicate-->
+	<arena-value cardId="DS1_233" value="21" /> <!-- mindblast-->
+	<arena-value cardId="DS1_175" value="13" /> <!-- timberwolf-->
+	<arena-value cardId="NEW1_024" value="30" /> <!-- captaingreenskin-->
+	<arena-value cardId="CS2_189" value="31" /> <!-- elvenarcher-->
+	<arena-value cardId="NEW1_037" value="44" /> <!-- masterswordsmith-->
+	<arena-value cardId="EX1_414" value="82" /> <!-- grommashhellscream-->
+	<arena-value cardId="EX1_586" value="79" /> <!-- seagiant-->
+	<arena-value cardId="EX1_310" value="25" /> <!-- doomguard-->
+	<arena-value cardId="NEW1_010" value="58" /> <!-- alakirthewindlord-->
+	<arena-value cardId="FP1_028" value="35" /> <!-- undertaker-->
+	<arena-value cardId="EX1_604" value="87" /> <!-- frothingberserker-->
+	<arena-value cardId="EX1_160" value="81" /> <!-- powerofthewild-->
+	<arena-value cardId="CS2_062" value="68" /> <!-- hellfire-->
+	<arena-value cardId="CS2_155" value="41" /> <!-- archmage-->
+	<arena-value cardId="CS2_213" value="46" /> <!-- recklessrocketeer-->
+	<arena-value cardId="CS2_023" value="59" /> <!-- arcaneintellect-->
+	<arena-value cardId="EX1_164" value="72" /> <!-- nourish-->
+	<arena-value cardId="EX1_009" value="20" /> <!-- angrychicken-->
+	<arena-value cardId="FP1_007" value="48" /> <!-- nerubianegg-->
+	<arena-value cardId="EX1_345" value="40" /> <!-- mindgames-->
+	<arena-value cardId="EX1_116" value="32" /> <!-- leeroyjenkins-->
+	<arena-value cardId="EX1_399" value="58" /> <!-- gurubashiberserker-->
+	<arena-value cardId="EX1_587" value="56" /> <!-- windspeaker-->
+	<arena-value cardId="EX1_571" value="72" /> <!-- forceofnature-->
+	<arena-value cardId="EX1_335" value="81" /> <!-- lightspawn-->
+	<arena-value cardId="EX1_283" value="53" /> <!-- frostelemental-->
+	<arena-value cardId="EX1_339" value="50" /> <!-- thoughtsteal-->
+	<arena-value cardId="EX1_531" value="31" /> <!-- scavenginghyena-->
+	<arena-value cardId="EX1_134" value="87" /> <!-- si7agent-->
+	<arena-value cardId="EX1_350" value="59" /> <!-- prophetvelen-->
+	<arena-value cardId="EX1_308" value="81" /> <!-- soulfire-->
+	<arena-value cardId="CS2_197" value="42" /> <!-- ogremagi-->
+	<arena-value cardId="FP1_013" value="78" /> <!-- kelthuzad-->
+	<arena-value cardId="EX1_509" value="25" /> <!-- murloctidecaller-->
+	<arena-value cardId="EX1_612" value="67" /> <!-- kirintormage-->
+	<arena-value cardId="EX1_021" value="31" /> <!-- thrallmarfarseer-->
+	<arena-value cardId="CS2_226" value="64" /> <!-- frostwolfwarlord-->
+	<arena-value cardId="EX1_608" value="78" /> <!-- sorcerersapprentice-->
+	<arena-value cardId="EX1_624" value="69" /> <!-- holyfire-->
+	<arena-value cardId="EX1_616" value="40" /> <!-- manawraith-->
+	<arena-value cardId="EX1_008" value="42" /> <!-- argentsquire-->
+	<arena-value cardId="EX1_045" value="21" /> <!-- ancientwatcher-->
+	<arena-value cardId="EX1_015" value="46" /> <!-- noviceengineer-->
+	<arena-value cardId="CS2_171" value="19" /> <!-- stonetuskboar-->
+	<arena-value cardId="CS2_041" value="27" /> <!-- ancestralhealing-->
+	<arena-value cardId="EX1_128" value="32" /> <!-- conceal-->
+	<arena-value cardId="CS2_112" value="73" /> <!-- arcanitereaper-->
+	<arena-value cardId="EX1_412" value="75" /> <!-- ragingworgen-->
+	<arena-value cardId="CS2_117" value="71" /> <!-- earthenringfarseer-->
+	<arena-value cardId="EX1_562" value="82" /> <!-- onyxia-->
+	<arena-value cardId="EX1_055" value="37" /> <!-- manaaddict-->
+	<arena-value cardId="FP1_012" value="81" /> <!-- sludgebelcher-->
+	<arena-value cardId="EX1_278" value="66" /> <!-- shiv-->
+	<arena-value cardId="EX1_590" value="70" /> <!-- bloodknight-->
+	<arena-value cardId="CS1_130" value="70" /> <!-- holysmite-->
+	<arena-value cardId="EX1_365" value="39" /> <!-- holywrath-->
+	<arena-value cardId="CS2_141" value="36" /> <!-- ironforgerifleman-->
+	<arena-value cardId="PRO_001" value="37" /> <!-- elitetaurenchieftain-->
+	<arena-value cardId="CS2_173" value="50" /> <!-- bluegillwarrior-->
+	<arena-value cardId="EX1_392" value="48" /> <!-- battlerage-->
+	<arena-value cardId="EX1_593" value="31" /> <!-- nightblade-->
+	<arena-value cardId="EX1_049" value="78" /> <!-- youthfulbrewmaster-->
+	<arena-value cardId="EX1_002" value="84" /> <!-- theblackknight-->
+	<arena-value cardId="EX1_596" value="54" /> <!-- demonfire-->
+	<arena-value cardId="EX1_136" value="32" /> <!-- redemption-->
+	<arena-value cardId="EX1_323" value="78" /> <!-- lordjaraxxus-->
+	<arena-value cardId="CS2_073" value="55" /> <!-- coldblood-->
+	<arena-value cardId="EX1_001" value="24" /> <!-- lightwarden-->
+	<arena-value cardId="EX1_044" value="53" /> <!-- questingadventurer-->
+	<arena-value cardId="CS2_142" value="48" /> <!-- koboldgeomancer-->
+	<arena-value cardId="EX1_573" value="87" /> <!-- cenarius-->
+	<arena-value cardId="FP1_009" value="61" /> <!-- deathlord-->
+	<arena-value cardId="EX1_390" value="42" /> <!-- taurenwarrior-->
+	<arena-value cardId="EX1_610" value="54" /> <!-- explosivetrap-->
+	<arena-value cardId="NEW1_040" value="48" /> <!-- hogger-->
+	<arena-value cardId="EX1_595" value="76" /> <!-- cultmaster-->
+	<arena-value cardId="CS2_013" value="32" /> <!-- wildgrowth-->
+	<arena-value cardId="CS2_077" value="52" /> <!-- sprint-->
+	<arena-value cardId="NEW1_014" value="46" /> <!-- masterofdisguise-->
+	<arena-value cardId="CRED_05" value="59" /> <!-- kyleharrison-->
+	<arena-value cardId="EX1_165" value="85" /> <!-- druidoftheclaw-->
+	<arena-value cardId="EX1_549" value="30" /> <!-- bestialwrath-->
+	<arena-value cardId="CS2_045" value="72" /> <!-- rockbiterweapon-->
+	<arena-value cardId="CS2_237" value="31" /> <!-- starvingbuzzard-->
+	<arena-value cardId="CS2_027" value="37" /> <!-- mirrorimage-->
+	<arena-value cardId="CS2_063" value="24" /> <!-- corruption-->
+	<arena-value cardId="EX1_145" value="15" /> <!-- preparation-->
+	<arena-value cardId="EX1_110" value="85" /> <!-- cairnebloodhoof-->
+	<arena-value cardId="EX1_408" value="53" /> <!-- mortalstrike-->
+	<arena-value cardId="EX1_544" value="56" /> <!-- flare-->
+	<arena-value cardId="CS2_151" value="85" /> <!-- silverhandknight-->
+	<arena-value cardId="CS2_088" value="69" /> <!-- guardianofkings-->
+	<arena-value cardId="EX1_057" value="54" /> <!-- ancientbrewmaster-->
+	<arena-value cardId="FP1_020" value="73" /> <!-- avenge-->
+	<arena-value cardId="CS2_169" value="17" /> <!-- youngdragonhawk-->
+	<arena-value cardId="CS2_037" value="24" /> <!-- frostshock-->
+	<arena-value cardId="CS2_227" value="82" /> <!-- venturecomercenary-->
+	<arena-value cardId="NEW1_003" value="12" /> <!-- sacrificialpact-->
+	<arena-value cardId="EX1_320" value="46" /> <!-- baneofdoom-->
+	<arena-value cardId="EX1_097" value="62" /> <!-- abomination-->
+	<arena-value cardId="tt_004" value="54" /> <!-- flesheatingghoul-->
+	<arena-value cardId="EX1_096" value="77" /> <!-- loothoarder-->
+	<arena-value cardId="EX1_126" value="70" /> <!-- betrayal-->
+	<arena-value cardId="EX1_577" value="45" /> <!-- thebeast-->
+	<arena-value cardId="EX1_319" value="83" /> <!-- flameimp-->
+	<arena-value cardId="CS2_146" value="25" /> <!-- southseadeckhand-->
+	<arena-value cardId="CS2_172" value="70" /> <!-- bloodfenraptor-->
+	<arena-value cardId="CS2_114" value="70" /> <!-- cleave-->
+	<arena-value cardId="CS1_069" value="56" /> <!-- fencreeper-->
+	<arena-value cardId="EX1_173" value="66" /> <!-- starfire-->
+	<arena-value cardId="CS1_042" value="21" /> <!-- goldshirefootman-->
+	<arena-value cardId="EX1_298" value="88" /> <!-- ragnarosthefirelord-->
+	<arena-value cardId="CS2_104" value="27" /> <!-- rampage-->
+	<arena-value cardId="FP1_001" value="74" /> <!-- zombiechow-->
+	<arena-value cardId="NEW1_016" value="19" /> <!-- captainsparrot-->
+	<arena-value cardId="EX1_033" value="32" /> <!-- windfuryharpy-->
+	<arena-value cardId="EX1_028" value="63" /> <!-- stranglethorntiger-->
+	<arena-value cardId="EX1_621" value="28" /> <!-- circleofhealing-->
+	<arena-value cardId="EX1_554" value="48" /> <!-- snaketrap-->
+	<arena-value cardId="EX1_091" value="86" /> <!-- cabalshadowpriest-->
+	<arena-value cardId="FP1_017" value="48" /> <!-- nerubarweblord-->
+	<arena-value cardId="EX1_409" value="61" /> <!-- upgrade-->
+	<arena-value cardId="EX1_410" value="58" /> <!-- shieldslam-->
+	<arena-value cardId="CS2_039" value="25" /> <!-- windfury-->
+	<arena-value cardId="EX1_557" value="38" /> <!-- natpagle-->
+	<arena-value cardId="DS1_070" value="51" /> <!-- houndmaster-->
+	<arena-value cardId="CS2_033" value="95" /> <!-- waterelemental-->
+	<arena-value cardId="EX1_536" value="73" /> <!-- eaglehornbow-->
+	<arena-value cardId="EX1_559" value="61" /> <!-- archmageantonidas-->
+	<arena-value cardId="EX1_539" value="56" /> <!-- killcommand-->
+	<arena-value cardId="EX1_575" value="64" /> <!-- manatidetotem-->
+	<arena-value cardId="CS2_061" value="38" /> <!-- drainlife-->
+	<arena-value cardId="NEW1_021" value="24" /> <!-- doomsayer-->
+	<arena-value cardId="DS1_055" value="54" /> <!-- darkscalehealer-->
+	<arena-value cardId="EX1_625" value="66" /> <!-- shadowform-->
+	<arena-value cardId="CS2_026" value="37" /> <!-- frostnova-->
+	<arena-value cardId="EX1_294" value="40" /> <!-- mirrorentity-->
+	<arena-value cardId="EX1_287" value="55" /> <!-- counterspell-->
+	<arena-value cardId="CS2_118" value="24" /> <!-- magmarager-->
+	<arena-value cardId="CS2_124" value="48" /> <!-- wolfrider-->
+	<arena-value cardId="EX1_112" value="41" /> <!-- gelbinmekkatorque-->
+	<arena-value cardId="FP1_011" value="73" /> <!-- webspinner-->
+	<arena-value cardId="EX1_607" value="36" /> <!-- innerrage-->
+	<arena-value cardId="FP1_003" value="65" /> <!-- echoingooze-->
+	<arena-value cardId="CS2_105" value="63" /> <!-- heroicstrike-->
+	<arena-value cardId="FP1_002" value="62" /> <!-- hauntedcreeper-->
+	<arena-value cardId="FP1_008" value="73" /> <!-- spectralknight-->
+	<arena-value cardId="DS1_184" value="1" /> <!-- tracking - dont use it-->
+	<arena-value cardId="CS2_029" value="87" /> <!-- fireball-->
+	<arena-value cardId="CS2_187" value="35" /> <!-- bootybaybodyguard-->
+	<arena-value cardId="EX1_020" value="84" /> <!-- scarletcrusader-->
+	<arena-value cardId="EX1_011" value="29" /> <!-- voodoodoctor-->
+	<arena-value cardId="CS2_057" value="70" /> <!-- shadowbolt-->
+	<arena-value cardId="EX1_274" value="38" /> <!-- etherealarcanist-->
+	<arena-value cardId="EX1_306" value="40" /> <!-- succubus-->
+	<arena-value cardId="EX1_170" value="68" /> <!-- emperorcobra-->
+	<arena-value cardId="EX1_617" value="70" /> <!-- deadlyshot-->
+	<arena-value cardId="FP1_015" value="71" /> <!-- feugen-->
+	<arena-value cardId="CS2_005" value="50" /> <!-- claw-->
+	<arena-value cardId="EX1_537" value="84" /> <!-- explosiveshot-->
+	<arena-value cardId="EX1_384" value="83" /> <!-- avengingwrath-->
+	<arena-value cardId="EX1_362" value="79" /> <!-- argentprotector-->
+	<arena-value cardId="EX1_301" value="43" /> <!-- felguard-->
+	<arena-value cardId="CS2_235" value="71" /> <!-- northshirecleric-->
+	<arena-value cardId="EX1_029" value="30" /> <!-- lepergnome-->
+	<arena-value cardId="CS2_042" value="91" /> <!-- fireelemental-->
+	<arena-value cardId="CS2_102" value="66" /> <!-- armorup-->
+	<arena-value cardId="EX1_609" value="37" /> <!-- snipe-->
+	<arena-value cardId="NEW1_027" value="53" /> <!-- southseacaptain-->
+	<arena-value cardId="EX1_570" value="67" /> <!-- bite-->
+	<arena-value cardId="EX1_131" value="54" /> <!-- defiasringleader-->
+	<arena-value cardId="EX1_556" value="87" /> <!-- harvestgolem-->
+	<arena-value cardId="EX1_543" value="76" /> <!-- kingkrush-->
+	<arena-value cardId="CS2_084" value="27" /> <!-- huntersmark-->
+	<arena-value cardId="EX1_582" value="30" /> <!-- dalaranmage-->
+	<arena-value cardId="EX1_043" value="88" /> <!-- twilightdrake-->
+	<arena-value cardId="EX1_050" value="31" /> <!-- coldlightoracle-->
+	<arena-value cardId="TU4b_001" value="22" /> <!-- millhousemanastorm-->
+	<arena-value cardId="FP1_005" value="77" /> <!-- shadeofnaxxramas-->
+	<arena-value cardId="EX1_620" value="50" /> <!-- moltengiant-->
+	<arena-value cardId="NAX15_01" value="80" /> <!-- kelthuzad-->
+	<arena-value cardId="NAX6_03" value="70" /> <!-- deathbloom-->
+	<arena-value cardId="EX1_303" value="63" /> <!-- shadowflame-->
+	<arena-value cardId="EX1_067" value="81" /> <!-- argentcommander-->
+	<arena-value cardId="EX1_277" value="61" /> <!-- arcanemissiles-->
+	<arena-value cardId="FP1_024" value="65" /> <!-- unstableghoul-->
+	<arena-value cardId="FP1_030" value="55" /> <!-- loatheb-->
+	<arena-value cardId="CS2_222" value="73" /> <!-- stormwindchampion-->
+	<arena-value cardId="CS2_012" value="92" /> <!-- swipe-->
+	<arena-value cardId="EX1_246" value="84" /> <!-- hex-->
+	<arena-value cardId="EX1_572" value="87" /> <!-- ysera-->
+	<arena-value cardId="EX1_089" value="43" /> <!-- arcanegolem-->
+	<arena-value cardId="EX1_279" value="76" /> <!-- pyroblast-->
+	<arena-value cardId="CS2_168" value="18" /> <!-- murlocraider-->
+	<arena-value cardId="tt_010" value="43" /> <!-- spellbender-->
+	<arena-value cardId="NEW1_023" value="74" /> <!-- faeriedragon-->
+	<arena-value cardId="CS2_075" value="20" /> <!-- sinisterstrike-->
+	<arena-value cardId="EX1_316" value="34" /> <!-- poweroverwhelming-->
+	<arena-value cardId="CS2_025" value="41" /> <!-- arcaneexplosion-->
+	<arena-value cardId="CS2_234" value="74" /> <!-- shadowwordpain-->
+	<arena-value cardId="EX1_130" value="42" /> <!-- noblesacrifice-->
+	<arena-value cardId="EX1_161" value="29" /> <!-- naturalize-->
+	<arena-value cardId="EX1_154" value="77" /> <!-- wrath-->
+	<arena-value cardId="EX1_080" value="30" /> <!-- secretkeeper-->
+	<arena-value cardId="NEW1_022" value="27" /> <!-- dreadcorsair-->
+	<arena-value cardId="EX1_251" value="71" /> <!-- forkedlightning-->
+	<arena-value cardId="FP1_025" value="35" /> <!-- reincarnate-->
+	<arena-value cardId="EX1_371" value="35" /> <!-- handofprotection-->
+	<arena-value cardId="EX1_594" value="49" /> <!-- vaporize-->
+	<arena-value cardId="EX1_560" value="23" /> <!-- nozdormu-->
+	<arena-value cardId="CS2_236" value="38" /> <!-- divinespirit-->
+	<arena-value cardId="EX1_402" value="36" /> <!-- armorsmith-->
+	<arena-value cardId="EX1_506" value="36" /> <!-- murloctidehunter-->
+	<arena-value cardId="EX1_315" value="35" /> <!-- summoningportal-->
+	<arena-value cardId="CS2_094" value="77" /> <!-- hammerofwrath-->
+	<arena-value cardId="CS2_131" value="65" /> <!-- stormwindknight-->
+	<arena-value cardId="EX1_082" value="76" /> <!-- madbomber-->
+	<arena-value cardId="CS2_093" value="86" /> <!-- consecration-->
+	<arena-value cardId="NEW1_019" value="82" /> <!-- knifejuggler-->
+	<arena-value cardId="EX1_289" value="35" /> <!-- icebarrier-->
+	<arena-value cardId="CS2_091" value="33" /> <!-- lightsjustice-->
+	<arena-value cardId="EX1_241" value="65" /> <!-- lavaburst-->
+	<arena-value cardId="EX1_085" value="77" /> <!-- mindcontroltech-->
+	<arena-value cardId="CS2_200" value="78" /> <!-- boulderfistogre-->
+	<arena-value cardId="CS2_034" value="60" /> <!-- fireblast-->
+	<arena-value cardId="EX1_583" value="44" /> <!-- priestessofelune-->
+	<arena-value cardId="EX1_584" value="37" /> <!-- ancientmage-->
+	<arena-value cardId="EX1_155" value="39" /> <!-- markofnature-->
+	<arena-value cardId="EX1_622" value="74" /> <!-- shadowworddeath-->
+	<arena-value cardId="CS2_203" value="41" /> <!-- ironbeakowl-->
+	<arena-value cardId="EX1_124" value="82" /> <!-- eviscerate-->
+	<arena-value cardId="EX1_032" value="80" /> <!-- sunwalker-->
+	<arena-value cardId="NAX9_01" value="32" /> <!-- baronrivendare-->
+	<arena-value cardId="EX1_391" value="70" /> <!-- slam-->
+	<arena-value cardId="EX1_366" value="92" /> <!-- swordofjustice-->
+	<arena-value cardId="EX1_400" value="34" /> <!-- whirlwind-->
+	<arena-value cardId="EX1_614" value="70" /> <!-- illidanstormrage-->
+	<arena-value cardId="EX1_561" value="48" /> <!-- alexstrasza-->
+	<arena-value cardId="EX1_332" value="21" /> <!-- silence-->
+	<arena-value cardId="CS2_032" value="95" /> <!-- flamestrike-->
+	<arena-value cardId="CS2_120" value="48" /> <!-- rivercrocolisk-->
+	<arena-value cardId="EX1_247" value="60" /> <!-- stormforgedaxe-->
+	<arena-value cardId="CS2_103e2" value="23" /> <!-- charge-->
+	<arena-value cardId="EX1_623" value="83" /> <!-- templeenforcer-->
+	<arena-value cardId="EX1_597" value="78" /> <!-- impmaster-->
+	<arena-value cardId="CS2_011" value="36" /> <!-- savageroar-->
+	<arena-value cardId="EX1_169" value="51" /> <!-- innervate-->
+	<arena-value cardId="EX1_250" value="89" /> <!-- earthelemental-->
+	<arena-value cardId="EX1_564" value="77" /> <!-- facelessmanipulator-->
+	<arena-value cardId="EX1_349" value="32" /> <!-- divinefavor-->
+	<arena-value cardId="EX1_102" value="59" /> <!-- demolisher-->
+	<arena-value cardId="EX1_058" value="63" /> <!-- sunfuryprotector-->
+	<arena-value cardId="EX1_243" value="25" /> <!-- dustdevil-->
+	<arena-value cardId="FP1_029" value="39" /> <!-- dancingswords-->
+	<arena-value cardId="CS2_089" value="28" /> <!-- holylight-->
+	<arena-value cardId="TU4c_001" value="43" /> <!-- kingmukla-->
+	<arena-value cardId="EX1_248" value="79" /> <!-- feralspirit-->
+	<arena-value cardId="CS2_122" value="41" /> <!-- raidleader-->
+	<arena-value cardId="EX1_393" value="74" /> <!-- amaniberserker-->
+	<arena-value cardId="CS2_232" value="78" /> <!-- ironbarkprotector-->
+	<arena-value cardId="NEW1_030" value="47" /> <!-- deathwing-->
+	<arena-value cardId="CS2_150" value="57" /> <!-- stormpikecommando-->
+	<arena-value cardId="CS2_127" value="23" /> <!-- silverbackpatriarch-->
+	<arena-value cardId="DS1_188" value="87" /> <!-- gladiatorslongbow-->
+
+
+  <arena-value cardId="GVG_001" value="45" /> <!-- Flamecannon -->
+  <arena-value cardId="GVG_002" value="60" /> <!-- Snowchugger -->
+  <arena-value cardId="GVG_003" value="44" /> <!-- Unstable Portal -->
+  <arena-value cardId="GVG_004" value="25" /> <!-- Goblin Blastmage -->
+  <arena-value cardId="GVG_005" value="66" /> <!-- Echo of Medivh -->
+  <arena-value cardId="GVG_006" value="25" /> <!-- Mechwarper -->
+  <arena-value cardId="GVG_007" value="20" /> <!-- Flame Leviathan -->
+  <arena-value cardId="GVG_008" value="70" /> <!-- Lightbomb -->
+  <arena-value cardId="GVG_009" value="40" /> <!-- Shadowbomber -->
+  <arena-value cardId="GVG_010" value="55" /> <!-- Velen's Chosen -->
+  <arena-value cardId="GVG_011" value="45" /> <!-- Shrinkmeister -->
+  <arena-value cardId="GVG_012" value="40" /> <!-- Light of the Naaru -->
+  <arena-value cardId="GVG_013" value="45" /> <!-- Cogmaster -->
+  <arena-value cardId="GVG_014" value="57" /> <!-- Vol'jin -->
+  <arena-value cardId="GVG_015" value="61" /> <!-- Darkbomb -->
+  <arena-value cardId="GVG_016" value="10" /> <!-- Fel Reaver -->
+  <arena-value cardId="GVG_017" value="61" /> <!-- Call Pet -->
+  <arena-value cardId="GVG_018" value="58" /> <!-- Mistress of Pain -->
+  <arena-value cardId="GVG_019" value="60" /> <!-- Demonheart -->
+  <arena-value cardId="GVG_020" value="45" /> <!-- Fel Cannon -->
+  <arena-value cardId="GVG_021" value="80" /> <!-- Mal'Ganis -->
+  <arena-value cardId="GVG_022" value="70" /> <!-- Tinker's Sharpsword Oil -->
+  <arena-value cardId="GVG_023" value="50" /> <!-- Goblin Auto-Barber -->
+  <arena-value cardId="GVG_024" value="40" /> <!-- Cogmaster's Wrench -->
+  <arena-value cardId="GVG_025" value="20" /> <!-- One-eyed Cheat -->
+  <arena-value cardId="GVG_026" value="20" /> <!-- Feign Death -->
+  <arena-value cardId="GVG_027" value="33" /> <!-- Iron Sensei -->
+  <arena-value cardId="GVG_028" value="35" /> <!-- Trade Prince Gallywix -->
+  <arena-value cardId="GVG_029" value="40" /> <!-- Ancestor's Call -->
+  <arena-value cardId="GVG_030" value="55" /> <!-- Anodized Robo Cub -->
+  <arena-value cardId="GVG_031" value="60" /> <!-- Recycle -->
+  <arena-value cardId="GVG_032" value="50" /> <!-- Grove Tender -->
+  <arena-value cardId="GVG_033" value="60" /> <!-- Tree of Life -->
+  <arena-value cardId="GVG_034" value="35" /> <!-- Mech-Bear-Cat -->
+  <arena-value cardId="GVG_035" value="80" /> <!-- Malorne -->
+  <arena-value cardId="GVG_036" value="22" /> <!-- Powermace -->
+  <arena-value cardId="GVG_037" value="64" /> <!-- Whirling Zap-o-matic -->
+  <arena-value cardId="GVG_038" value="72" /> <!-- Crackle -->
+  <arena-value cardId="GVG_039" value="60" /> <!-- Vitality Totem -->
+  <arena-value cardId="GVG_040" value="30" /> <!-- Siltfin Spiritwalker -->
+  <arena-value cardId="GVG_041" value="45" /> <!-- Dark Wispers -->
+  <arena-value cardId="GVG_042" value="28" /> <!-- Neptulon -->
+  <arena-value cardId="GVG_043" value="40" /> <!-- Glaivezooka -->
+  <arena-value cardId="GVG_044" value="22" /> <!-- Spider Tank -->
+  <arena-value cardId="GVG_045" value="42" /> <!-- Imp-losion -->
+  <arena-value cardId="GVG_046" value="56" /> <!-- King of Beasts -->
+  <arena-value cardId="GVG_047" value="35" /> <!-- Sabotage -->
+  <arena-value cardId="GVG_048" value="55" /> <!-- Metaltooth Leaper -->
+  <arena-value cardId="GVG_049" value="70" /> <!-- Gahz'rilla -->
+  <arena-value cardId="GVG_050" value="77" /> <!-- Bouncing Blade -->
+  <arena-value cardId="GVG_051" value="65" /> <!-- Warbot -->
+  <arena-value cardId="GVG_052" value="59" /> <!-- Crush -->
+  <arena-value cardId="GVG_053" value="85" /> <!-- Shieldmaiden -->
+  <arena-value cardId="GVG_054" value="67" /> <!-- Ogre Warmaul -->
+  <arena-value cardId="GVG_055" value="72" /> <!-- Screwjank Clunker -->
+  <arena-value cardId="GVG_056" value="70" /> <!-- Iron Juggernaut -->
+  <arena-value cardId="GVG_057" value="66" /> <!-- Seal of Light -->
+  <arena-value cardId="GVG_058" value="75" /> <!-- Shielded Minibot -->
+  <arena-value cardId="GVG_059" value="68" /> <!-- Coghammer -->
+  <arena-value cardId="GVG_060" value="45" /> <!-- Quartermaster -->
+  <arena-value cardId="GVG_061" value="75" /> <!-- Muster for Battle -->
+  <arena-value cardId="GVG_062" value="82" /> <!-- Cobalt Guardian -->
+  <arena-value cardId="GVG_063" value="67" /> <!-- Bolvar Fordrago -->
+  <arena-value cardId="GVG_064" value="69" /> <!-- Puddlestomper -->
+  <arena-value cardId="GVG_065" value="70" /> <!-- Ogre Brute -->
+  <arena-value cardId="GVG_066" value="61" /> <!-- Dunemaul Shaman -->
+  <arena-value cardId="GVG_067" value="82" /> <!-- Stonesplinter Trogg -->
+  <arena-value cardId="GVG_068" value="71" /> <!-- Burly Rockjaw Trogg -->
+  <arena-value cardId="GVG_069" value="77" /> <!-- Antique Healbot -->
+  <arena-value cardId="GVG_070" value="68" /> <!-- Salty Dog -->
+  <arena-value cardId="GVG_071" value="66" /> <!-- Lost Tallstrider -->
+  <arena-value cardId="GVG_072" value="78" /> <!-- Shadowboxer -->
+  <arena-value cardId="GVG_073" value="55" /> <!-- Cobra Shot -->
+  <arena-value cardId="GVG_074" value="59" /> <!-- Kezan Mystic -->
+  <arena-value cardId="GVG_075" value="67" /> <!-- Ship's Cannon -->
+  <arena-value cardId="GVG_076" value="69" /> <!-- Explosive Shee -->
+  <arena-value cardId="GVG_077" value="72" /> <!-- Anima Golem -->
+  <arena-value cardId="GVG_078" value="73" /> <!-- Mechanical Yeti -->
+  <arena-value cardId="GVG_079" value="62" /> <!-- Force-Tank MAX -->
+  <arena-value cardId="GVG_080" value="59" /> <!-- Druid of the Fang -->
+  <arena-value cardId="GVG_081" value="78" /> <!-- Gilblin Stalker -->
+  <arena-value cardId="GVG_082" value="72" /> <!-- Clockwork Gnome -->
+  <arena-value cardId="GVG_083" value="69" /> <!-- Upgraded Repair Bot -->
+  <arena-value cardId="GVG_084" value="79" /> <!-- Flying Machine -->
+  <arena-value cardId="GVG_085" value="81" /> <!-- Annoy-o-Tron -->
+  <arena-value cardId="GVG_086" value="67" /> <!-- Siege Engine -->
+  <arena-value cardId="GVG_087" value="82" /> <!-- Steamwheedle Sniper -->
+  <arena-value cardId="GVG_088" value="63" /> <!-- Ogre Ninja -->
+  <arena-value cardId="GVG_089" value="58" /> <!-- Illuminator -->
+  <arena-value cardId="GVG_090" value="71" /> <!-- Madder Bomber -->
+  <arena-value cardId="GVG_091" value="68" /> <!-- Arcane Nullifier X-21 -->
+  <arena-value cardId="GVG_092" value="63" /> <!-- Gnomish Experimenter -->
+  <arena-value cardId="GVG_093" value="77" /> <!-- Target Dummy -->
+  <arena-value cardId="GVG_094" value="67" /> <!-- Jeeves -->
+  <arena-value cardId="GVG_095" value="49" /> <!-- Goblin Sapper -->
+  <arena-value cardId="GVG_096" value="58" /> <!-- Piloted Shredder -->
+  <arena-value cardId="GVG_097" value="69" /> <!-- Lil' Exorcist -->
+  <arena-value cardId="GVG_098" value="66" /> <!-- Gnomeregan Infantry -->
+  <arena-value cardId="GVG_099" value="70" /> <!-- Bomb Lobber -->
+  <arena-value cardId="GVG_100" value="73" /> <!-- Floating Watcher -->
+  <arena-value cardId="GVG_101" value="57" /> <!-- Scarlet Purifier -->
+  <arena-value cardId="GVG_102" value="60" /> <!-- Tinkertown Technician -->
+  <arena-value cardId="GVG_103" value="68" /> <!-- Micro Machine -->
+  <arena-value cardId="GVG_104" value="71" /> <!-- Hobgoblin -->
+  <arena-value cardId="GVG_105" value="62" /> <!-- Piloted Sky Golem -->
+  <arena-value cardId="GVG_106" value="54" /> <!-- Junkbot -->
+  <arena-value cardId="GVG_107" value="68" /> <!-- Enhance-o Mechano -->
+  <arena-value cardId="GVG_108" value="40" /> <!-- Recombobulator -->
+  <arena-value cardId="GVG_109" value="69" /> <!-- Mini-Mage -->
+  <arena-value cardId="GVG_110" value="70" /> <!-- Dr. Boom -->
+  <arena-value cardId="GVG_111" value="54" /> <!-- Mimiron's Head -->
+  <arena-value cardId="GVG_112" value="25" /> <!-- Mogor the Ogre -->
+  <arena-value cardId="GVG_113" value="55" /> <!-- Foe Reaper 4000 -->
+  <arena-value cardId="GVG_114" value="68" /> <!-- Sneed's Old Shredder -->
+  <arena-value cardId="GVG_115" value="68" /> <!-- Toshley -->
+  <arena-value cardId="GVG_116" value="88" /> <!-- Mekgineer Thermaplugg -->
+  <arena-value cardId="GVG_117" value="69" /> <!-- Gazlowe -->
+  <arena-value cardId="GVG_118" value="75" /> <!-- Troggzor the Earthinator -->
+  <arena-value cardId="GVG_119" value="77" /> <!-- Blingtron 3000 -->
+  <arena-value cardId="GVG_120" value="68" /> <!-- Hemet Nesingwary -->
+  <arena-value cardId="GVG_121" value="35" /> <!-- Clockwork Giant -->
+  <arena-value cardId="GVG_122" value="58" /> <!-- Wee Spellstopper -->
+  <arena-value cardId="GVG_123" value="11" /> <!-- Soot Spewer -->
+</arena-values>
